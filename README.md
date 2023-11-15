@@ -1,1 +1,3 @@
 # huffman-coding
+
+This project involves implementing a Huffman coding algorithm in Java to encode and decode text files. The `Huffman` class provides methods to read an ASCII text file, count character occurrences, derive Huffman codes, and output an encoded version of the original file along with the Huffman codes. Another method decodes an encoded text file using the provided Huffman codes. The project includes a demo program, `HuffmanDemo.java`, that demonstrates the functionality of encoding and decoding. The process involves creating Huffman trees, deriving codes, and producing output files (`Huffman.txt`, `Encoded.txt`, `Decoded.txt`). The final output should demonstrate the effectiveness of the Huffman coding algorithm.
